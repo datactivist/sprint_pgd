@@ -1,0 +1,20 @@
+---
+title: "Fiche 22 - Décrire le processus de stockage et sauvegarde en place durant le projet"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+------------------------------------------------------------------------
+
+## **Exemple de réponse pour le projet** [**"Bridge Research through Interoperable Data Governance and Environments"**](https://dmp.opidor.fr/plans/5954/export.pdf) **sur le modèle PGD ANR français section "Stockage et sauvegarde pendant le processus de recherche" pour deux produits de recherche :**
+
+![](images/exemple%20pgd%20stockage%20.png ""Stockage et sauvegarde pendant le processus de recherche")
+
+DMP Public projet "Bridge Research through Interoperable Data Governance and Environments" - section "Stockage et sauvegarde pendant le processus de recherche"
+
+------------------------------------------------------------------------
+
+**Merci aux contributeurs des PGD publics sur DMP OPIDoR d'avoir partagé leur PGD librement.**
