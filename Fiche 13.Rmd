@@ -17,11 +17,11 @@ Si on s'imagine un jeu de données sous la forme d'une boite de conserve, alors 
 
 ------------------------------------------------------------------------
 
-![](https://doranum.fr/wp-content/uploads/parcours-GDR/assets/ZIqvStOb8EWOwj87_gTYQr2sBdpiH7LRb.jpg)
+![](images/metadonnees_1.png "Sans métadonnées")
 
 Sans métadonnées (Image par Araceli Jáuregui de Pixabay)
 
-![](https://doranum.fr/wp-content/uploads/parcours-GDR/assets/kyICAtdXKRQLePZa_cqHq_g8s4zZxStDK.jpg)
+![](images/metadonnees_2.png "Avec métadonnées")
 
 Avec métadonnées (Image par heberhard de Pixabay)
 
