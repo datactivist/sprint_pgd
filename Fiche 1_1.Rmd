@@ -1,11 +1,13 @@
 ---
-title: "Fiche 1_1"
+title: "Fiche : se familiariser avec la notion de produit de recherche"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+------------------------------------------------------------------------
 
 # Définition des données de la recherche
 
@@ -15,13 +17,15 @@ La définition de l'OCDE (Organisation de coopération et de développement éco
 
 > **Les données de la recherche sont définies comme des enregistrements factuels (chiffres, textes, images et sons), qui sont utilisés comme sources principales pour la recherche scientifique et sont généralement reconnus par la communauté scientifique comme nécessaires pour valider les résultats de recherche.**
 >
-> OCDE, « [Principes et lignes directrices de l'OCDE pour l'accès aux données de la recherche financée sur fonds publics » \[archive\] \[PDF\], Paris, 2007](http://www.oecd.org/fr/science/inno/38500823.pdf)
+> OCDE, « Principes et lignes directrices de l'OCDE pour l'accès aux données de la recherche financée sur fonds publics », Paris, 2007
 
 A titre d'exemple, on peut également citer la définition issue de l'ANDS - Australian national data service (traduction Inist-CNRS) :
 
 > Le terme de données de la recherche désigne les données sous forme de faits, d'observations, d'images, de résultats de programmes informatiques, d'enregistrements, de mesures ou d'expériences sur lesquels un argument, une théorie, un test ou une hypothèse, ou un autre produit de la recherche est basé. Les données peuvent être numériques, descriptives, visuelles ou tactiles. Elles peuvent être brutes, nettoyées ou traitées, et peuvent être conservées dans tout format ou support.
 >
 > ANDS, « What Is Research Data », 2017. <https://www.ands.org.au/__data/assets/pdf_file/0006/731823/Whatis-research-data.pdf>
+
+------------------------------------------------------------------------
 
 # **Diversité des données de la recherche**
 
@@ -34,3 +38,13 @@ Selon le projet, les données de la recherche peuvent être :
 -   **produites et collectées**
 
 Les données de recherche peuvent être de différentes natures et de tous types, contenues dans divers supports, selon leur contexte de création (capture ou production), leur exploitation, leur analyse et les traitements qu'elles subissent (voir ci-dessous)
+
+------------------------------------------------------------------------
+
+# **Cherchez l'éléphant pour trouver les données : traduction graphique à partir de l'interview de Christine Borgman**
+
+![](images/70290-elephant-02.jpeg "Cherchez l’éléphant pour trouver les données : traduction graphique à partir de l’interview de Christine Borgman")
+
+![](images/70291-elephant%20.jpeg "Cherchez l’éléphant pour trouver les données : traduction graphique à partir de l’interview de Christine Borgman")
+
+BIHAN, Solenn, 2022. Cherchez l'éléphant pour trouver les données : traduction graphique à partir de l'interview de Christine Borgman. 12 janvier 2022. Disponible à l'adresse : <https://bbf.enssib.fr/consulter/bbf-2021-00-0000-065>
