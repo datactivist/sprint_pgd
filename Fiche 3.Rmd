@@ -1,0 +1,22 @@
+---
+title: "Fiche 3 - Lister tous les produits de recherche du projet"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+------------------------------------------------------------------------
+
+### **Exemple de produits de recherche identifiés pour le projet**[ **"Bridge Research through Interoperable Data Governance and Environments"**](https://dmp.opidor.fr/plans/5954/export.pdf) **sur le modèle PGD ANR français :**
+
+![](images/exemple%20pgd%20PDR.png)\
+
+*DMP Public projet "Bridge Research through Interoperable Data Governance and Environments" - section "produits de recherche"*
+
+------------------------------------------------------------------------
+
+**Merci aux contributeurs des PGD publics sur DMP OPIDoR d'avoir partagé leur PGD librement.**
+
+#  
