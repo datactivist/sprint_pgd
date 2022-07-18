@@ -1,0 +1,18 @@
+---
+title: "Fiche 18 - Ajouter une documentatio aux métadonnées"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+------------------------------------------------------------------------
+
+## **Exemple de réponse pour le projet**[ **"Bridge Research through Interoperable Data Governance and Environments"**](https://dmp.opidor.fr/plans/10339/export.pdf) **sur le modèle PGD ANR français section "Documentation et métadonnées" :**
+
+![](images/documentation%20et%20me%CC%81tadonne%CC%81es.png)
+
+------------------------------------------------------------------------
+
+Merci aux contributeurs des PGD publics sur DMP OPIDoR d'avoir partagé leur PGD librement.
