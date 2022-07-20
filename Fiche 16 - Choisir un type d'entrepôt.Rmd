@@ -1,5 +1,5 @@
 ---
-title: "Fiche 16 - Choisir un type d'entrepôt"
+title: "Fiche 16 - Faire le choix d'un type d'entrepôt"
 output: html_document
 ---
 
@@ -41,33 +41,13 @@ Il est conseillé de privilégier le dépôt de vos données dans un **entrepôt
 
 Voici quelques exemples :
 
-#### Zenodo (pluridisciplinaire)
+Zenodo (pluridisciplinaire)
 
-Entrepôt généraliste recommandé par la Commission européenne [(voir le site)](https://zenodo.org)
+Dryad (pluridisciplinaire)
 
-------------------------------------------------------------------------
+Datasuds (institutionnel IRD)
 
-#### Dryad (pluridisciplinaire)
-
-Entrepôt en Sciences de la Vie, Agronomie, Géosciences, Anthropologie et Sciences comportementales [(voir le site)](https://datadryad.org/stash)
-
-------------------------------------------------------------------------
-
-#### Datasuds (institutionnel IRD)
-
-L'entrepôt de données DataSuds propose aux scientifiques de l'IRD et à leurs partenaires un service pour diffuser, préserver et valoriser leurs données de recherche en facilitant leur identification et leur citation.
-
-------------------------------------------------------------------------
-
-#### Recherche data gouv (national)
-
-Une plateforme nationale fédérée des données de la recherche([voir le site](https://recherche.data.gouv.fr/fr))
-
-il assure la souveraineté française sur les données, est conforme aux droits français et communautaire, garantit la pérennité et l'indexation des données stockées, suivant les principes FAIR. C'est l'entrepôt de choix quand aucun entrepôt disciplinaire n'existe.
-
-Source : *Partager les données liées aux publications scientifiques -- Guide pour les chercheurs*. (2022). from <https://www.ouvrirlascience.fr/partager-les-donnees-liees-aux-publications-scientifiques-guide-pour-les-chercheurs>​
-
-------------------------------------------------------------------------
+Recherche data gouv (national)
 
 **Astuce** **: On peut faire appel à son service d'appui à la recherche pour bien choisir son entrepôt.**
 
