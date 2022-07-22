@@ -1,5 +1,5 @@
 ---
-title: "Fiche 48 - Choisir un type d'entrepôt"
+title: "Fiche - Choisir un type d'entrepôt"
 output: html_document
 ---
 
