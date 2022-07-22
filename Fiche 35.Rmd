@@ -1,5 +1,5 @@
 ---
-title: "Fiche 35 - Découvrir les différentes licences existantes"
+title: "Fiche - Découvrir les différentes licences existantes"
 output: html_document
 ---
 
@@ -51,7 +51,7 @@ La « Licence Ouverte / Open License » présente les caractéristiques suivante
 
 ------------------------------------------------------------------------
 
-**Creative Commons CC0** : C'est une licence ouverte conçue pour les données dédiées au domaine public. Voir la [fiche ](https://creativecommons.org/publicdomain/zero/1.0/deed.fr)et le [site Creative Commons français](https://creativecommons.org/licenses/?lang=fr-FR).
+**Creative Commons CC0** : C'est une licence ouverte conçue pour les données dédiées au domaine public. Voir la [fiche](https://creativecommons.org/publicdomain/zero/1.0/deed.fr)et le [site Creative Commons français](https://creativecommons.org/licenses/?lang=fr-FR).
 
 ------------------------------------------------------------------------
 
@@ -97,5 +97,4 @@ Notez que dans le cas de données publiques ayant une visibilité internationale
 
 ------------------------------------------------------------------------
 
-**Crédits :**
-Réseau URFIST - Inist-CNRS : [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
+**Crédits :** Réseau URFIST - Inist-CNRS : [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
