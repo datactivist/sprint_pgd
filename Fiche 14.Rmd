@@ -1,5 +1,5 @@
 ---
-title: "Fiche 14 - Identifier quelles métadonnées sont essentielles pour vos produits de recherche"
+title: "Fiche - Identifier quelles métadonnées sont essentielles pour vos produits de recherche"
 output: html_document
 ---
 
