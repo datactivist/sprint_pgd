@@ -1,5 +1,5 @@
 ---
-title: "Fiche 36 - Déterminer la licence à appliquer"
+title: "Fiche - Déterminer la licence à appliquer"
 output: html_document
 ---
 
@@ -41,5 +41,4 @@ Cet outil permet de choisir quelle licence attribuer à ses données en utilisan
 
 ------------------------------------------------------------------------
 
-**Crédits :**
-Réseau URFIST - Inist-CNRS : [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
+**Crédits :** Réseau URFIST - Inist-CNRS : [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
