@@ -1,5 +1,5 @@
 ---
-title: "Fiche 1 : se familiariser avec la notion de produit de recherche"
+title: "Fiche : se familiariser avec la notion de produit de recherche"
 output: html_document
 ---
 
