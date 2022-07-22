@@ -1,5 +1,5 @@
 ---
-title: "Fiche 16 - Choisir un standard de métadonnées dans le catalogue"
+title: "Fiche - Choisir un standard de métadonnées dans le catalogue"
 output: html_document
 ---
 
@@ -13,11 +13,10 @@ Il existe aussi plusieurs répertoires et sites, parmi lesquels :
 
 -   Le site du Digital Curation Centre Standards dans la section [Disciplinary Metadata](https://www.dcc.ac.uk/guidance/standards/metadata), retrouvez les standards de métadonnées propres à votre discipline.
 
--   Le [**Catalogue de métadonnées**](https://rdamsc.bath.ac.uk/subject-index) développé par Research Data Alliance géré par l'Université de Bath. Cette ressource vous permettra d'y trouver des informations précises sur les normes de métadonnées selon votre discipline spécifique. \
+-   Le [**Catalogue de métadonnées**](https://rdamsc.bath.ac.uk/subject-index) développé par Research Data Alliance géré par l'Université de Bath. Cette ressource vous permettra d'y trouver des informations précises sur les normes de métadonnées selon votre discipline spécifique.\
 
 Vous pouvez aussi consulter le chapitre dédié aux métadonnées dans le [**Guide de bonnes pratiques : Gestion et valorisation des données de recherche**](https://ordar.otelo.univ-lorraine.fr/record?id=10.24396/ORDAR-1) rédigé par OTELo et l'Inist-CNRS. Il propose un modèle de métadonnées pour apporter une information minimale et suffisante pour comprendre et reproduire ses données.
 
 ------------------------------------------------------------------------
 
-**Crédits :**
-Réseau URFIST - Inist-CNRS : [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
+**Crédits :** Réseau URFIST - Inist-CNRS : [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
