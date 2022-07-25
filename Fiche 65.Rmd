@@ -1,0 +1,14 @@
+---
+title: "Fiche - Évaluer le montant des dépenses grâce à un calculateur de coûts"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+------------------------------------------------------------------------
+
+Le [calculateur de coûts](https://costcalc.epfl.ch/) est un outil développé par la [bibliothèque de l'EPFL](https://www.epfl.ch/campus/library/fr/). Cet outil vous permettra d'avoir une estimation du coût de gestion, de stockage et de publication des données en inscrivant les fournisseurs mobilisés lors de votre projet.
+
+![](images/Capture%20d%E2%80%99%C3%A9cran%202022-07-25%20%C3%A0%2014.57.52.png)
