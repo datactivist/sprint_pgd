@@ -1,0 +1,10 @@
+---
+title: "Fiche - Expliquer quelles méthodologies ou quels logiciels sont utilisés pour collecter de nouvelles données"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Exemple PGD
