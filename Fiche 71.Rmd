@@ -1,0 +1,10 @@
+---
+title: "Fiche - Déterminer qui est en charge de la gestion des données du projet"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Exemple PGD
