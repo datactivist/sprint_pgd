@@ -17,11 +17,11 @@ Si on s'imagine un jeu de données sous la forme d'une boite de conserve, alors 
 
 ------------------------------------------------------------------------
 
-![](images/metadonnees_1.png "Sans métadonnées")
+![](images/metadonnees_1.png "Sans métadonnées"){width="7cm"}
 
 Sans métadonnées (Image par Araceli Jáuregui de Pixabay)
 
-![](images/metadonnees_2.png "Avec métadonnées")
+![](images/metadonnees_2.png "Avec métadonnées"){width="7cm"}
 
 Avec métadonnées (Image par heberhard de Pixabay)
 
