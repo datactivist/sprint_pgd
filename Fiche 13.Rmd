@@ -7,22 +7,25 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
 ------------------------------------------------------------------------
 
 ## Que sont les métadonnées ?
 
 Les métadonnées permettent de décrire plus précisément les données. Ce sont des **données sur les données** qui servent à faciliter la recherche d'un produit de recherche **:** lorsque vous tapez des mots clés dans une barre de recherche ou lorsque vous sélectionnez des filtres.
 
-Si on s'imagine un jeu de données sous la forme d'une boite de conserve, alors les métadonnées équivalent à l'étiquette qui orne celle-ci et en décrit le contenu (date de fabrication, créateur etc.).
+#### Si on s'imagine un jeu de données sous la forme d'une boite de conserve, alors les métadonnées équivalent à l'étiquette qui orne celle-ci et en décrit le contenu (date de fabrication, créateur etc.).
 
 ------------------------------------------------------------------------
 
-![Sans métadonnées (Image par Araceli Jáuregui de Pixabay)](images/metadonnees_1.png "Sans métadonnées"){width="7cm"}
+```{r echo=FALSE, out.width='90%', fig.align='center', fig.asp=0.55}
+library(cowplot)
+library(ggplot2)
 
-![Avec métadonnées (Image par heberhard de Pixabay)](images/metadonnees_2.png "Avec métadonnées"){width="7cm"}
+p1 <- ggdraw() + draw_image("images/metadonnees_1.png", scale = 0.95)
+p2 <- ggdraw() + draw_image("images/metadonnees_2.png", scale = 0.95)
 
-
+plot_grid(p1, p2)
+```
 
 ------------------------------------------------------------------------
 
