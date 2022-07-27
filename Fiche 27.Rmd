@@ -1,0 +1,97 @@
+---
+title: Fiche - Définir les règles de collecte, de traitement et de stockage des données
+  à caractère personnel
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+------------------------------------------------------------------------
+
+## Fiches Pratiques RGPD recherche 
+
+Afin de vous aider à définir les règles de collecte, traitement et stockage de vos données pendant votre projet, voici deux guides RGPD qui pourront vous être utiles.
+
+------------------------------------------------------------------------
+
+### [Guide RGPD 2019](https://recherche.parisnanterre.fr/accueil/rgpd-fiches-pratiques-rgpd-recherche) Paris Nanterre 
+
+**SOMMAIRE :**
+
+-   Qui est propriétaire des données ?
+
+-   Est-ce que je manipule des données personnelles ?
+
+-   Les données de mon projet sont-elles sensibles ?
+
+-   Quelles sont les modalités de collecte des données et leurs implications ?
+
+-   Que faire pour respecter les droits des personnes ?
+
+-   Quelles formalités accomplir et quel est le rôle du délégué à la protection des données (DPD ou DPO) ?
+
+-   Est-ce que je peux/dois anonymiser les données ?
+
+-   Quels réflexes pour la sécurisation des données ? (Protection contre le vol et chiffrement, stockage...)
+
+-   Les données peuvent-elles voyager au-delà des frontières ?
+
+-   Comment procéder pour l'archivage des données ?
+
+-   Qui est responsable des traitements en cas de projet de recherche collaboratif ?
+
+-   Quels sont les risques encourus pour moi, mon projet, mon institution ?
+
+\
+**Réalisation des fiches pratiques** : Catherine **Delplanque**, Nawale **Lamrini**, Fabrice **Leclère**, Lionel **Maurel**\
+**Avec le concours de** : Isabelle **Autran**, Nabil **Belkouch**, Jose-Manuel **Coelho**, Claire **Hanen,** Julie **Nordin**\
+**Edition** : **Direction de la recherche et des études doctorales** - **Université Paris Nanterre**
+
+------------------------------------------------------------------------
+
+### [Guide InSHS 2020](https://recherche.parisnanterre.fr/accueil/rgpd-fiches-pratiques-rgpd-recherche) - CNRS 
+
+**Chapitre 1 - Les principales définitions et leur application pour les recherches en sciences humaines et sociales**
+
+-   Les données à caractère personnel
+
+-   Les acteurs et leur rôle
+
+-   Le périmètre de la règlementation : la territorialité
+
+-   Le traitement de données
+
+-   Les principes relatifs au traitement de données
+
+-   L'analyse d'impact sur la vie privée
+
+-   Les droits des personnes
+
+**Chapitre 2 : Les projets de recherche, le cycle de vie des données et la
+protection des données personnelles**
+
+-   La création de la donnée
+
+-   Les catégories de données
+
+-   Les types de données personnelles
+
+-   Le fondement du traitement associé à la collecte des données personnelle
+
+-   La finalité
+
+-   La proportionnalité
+
+-   Le stockage des données
+
+-   L'exploitation des données
+
+-   L'archivage des données
+
+-   Le partage des données dans la relation partenariale
+
+-   La diffusion des données, la publication
+
+-   Le réemploi des données
