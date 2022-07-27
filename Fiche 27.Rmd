@@ -12,11 +12,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Fiches Pratiques RGPD recherche
 
-Afin de vous aider à définir les règles de collecte, traitement et stockage de vos données pendant votre projet, voici deux guides RGPD qui pourront vous être utiles.
+Afin de vous aider à définir les règles de collecte, traitement et stockage de vos données pendant votre projet, voici deux guides RGPD qui pourront vous être utiles :
 
 ------------------------------------------------------------------------
 
-### [Guide RGPD 2019](https://recherche.parisnanterre.fr/accueil/rgpd-fiches-pratiques-rgpd-recherche) Paris Nanterre
+### [Guide RGPD 2019](https://recherche.parisnanterre.fr/accueil/rgpd-fiches-pratiques-rgpd-recherche) - Université Paris Nanterre
 
 <center>
 
@@ -26,7 +26,7 @@ Afin de vous aider à définir les règles de collecte, traitement et stockage d
 
 Depuis le 25 mai dernier, le **Règlement Général pour la Protection des Données (RGPD)** s'applique aux établissements d'enseignement supérieur et de recherche. Il impacte le traitement des données personnelles au sein des projets de recherche.\
 \
-**Les établissements de la ComUE** ont réuni leurs compétences pour proposer un ensemble de fiches pratiques sur l'application du RGPD destinées aux chercheurs. Elles sont accessibles à tous sans connaissances juridiques
+**Les établissements de la ComUE** ont réuni leurs compétences pour proposer un ensemble de fiches pratiques sur l'application du RGPD destinées aux chercheurs. Elles sont accessibles à tous sans connaissances juridiques.
 
 **SOMMAIRE :**
 
@@ -63,13 +63,13 @@ Depuis le 25 mai dernier, le **Règlement Général pour la Protection des Donn�
 
 ### [Guide InSHS 2021](https://recherche.parisnanterre.fr/accueil/rgpd-fiches-pratiques-rgpd-recherche) - CNRS
 
+Les sciences humaines et sociales et la protection des données à caractère personnel dans le contexte de la science ouverte :
+
 <center>
 
 ![](images/miniature_guide_InSHS_CNRS.png){width="50%"}
 
 </center>
-
-"Les sciences humaines et sociales et la protection des données à caractère personnel dans le contexte de la science ouverte"
 
 **SOMMAIRE** :
 
