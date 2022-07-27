@@ -51,7 +51,11 @@ Afin de vous aider à définir les règles de collecte, traitement et stockage d
 
 ------------------------------------------------------------------------
 
-### [Guide InSHS 2020](https://recherche.parisnanterre.fr/accueil/rgpd-fiches-pratiques-rgpd-recherche) - CNRS 
+### [Guide InSHS 2021](https://recherche.parisnanterre.fr/accueil/rgpd-fiches-pratiques-rgpd-recherche) - CNRS 
+
+"Les sciences humaines et sociales et la protection des données à caractère personnel dans le contexte de la science ouverte"
+
+**SOMMAIRE** :
 
 **Chapitre 1 - Les principales définitions et leur application pour les recherches en sciences humaines et sociales**
 
@@ -95,3 +99,25 @@ protection des données personnelles**
 -   La diffusion des données, la publication
 
 -   Le réemploi des données
+
+**La version 2 du Guide RGPD InSHS a été conçue par** :
+
+**Fabrice Boudjaaba**, directeur adjoint scientifique à l'InSHS du CNRS
+
+**Gaëlle Bujan**, Déléguée à la protection des données du CNRS
+
+**Béatrice Collignon**, directrice de l'unité Passages
+
+**Christine Hadrossek**, chargée des données de la recherche à la Direction des Données Ouvertes de la Recherche du CNRS
+
+**Emilie Masson**, responsable juridique, service protection des données du CNRS
+
+**Lionel Maurel**, directeur adjoint scientifique à l'InSHS du CNRS
+
+**Clément Oliver**, responsable du pôle affaires juridiques et partenariats à l'InSHS du CNRS
+
+**Serge Pinto**, directeur adjoint du laboratoire Parole et Langage
+
+**Muriel Roger**, Professeure, Centre d'Economie de la Sorbonne, Université Paris1 Panthéon Sorbonne ; chargée du département « Méthodes et statistiques publiques » de la TGIR PROGEDO
+
+**Paola Tubaro**, directrice de recherche au Laboratoire Interdisciplinaire des Sciences du Numérique
