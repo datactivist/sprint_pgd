@@ -7,6 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
 ------------------------------------------------------------------------
 
 ## Que sont les métadonnées ?
@@ -17,13 +18,11 @@ Si on s'imagine un jeu de données sous la forme d'une boite de conserve, alors 
 
 ------------------------------------------------------------------------
 
-![](images/metadonnees_1.png "Sans métadonnées"){width="7cm"}
+![Sans métadonnées (Image par Araceli Jáuregui de Pixabay)](images/metadonnees_1.png "Sans métadonnées"){width="7cm"}
 
-Sans métadonnées (Image par Araceli Jáuregui de Pixabay)
+![Avec métadonnées (Image par heberhard de Pixabay)](images/metadonnees_2.png "Avec métadonnées"){width="7cm"}
 
-![](images/metadonnees_2.png "Avec métadonnées"){width="7cm"}
 
-Avec métadonnées (Image par heberhard de Pixabay)
 
 ------------------------------------------------------------------------
 
@@ -45,17 +44,21 @@ Il est recommandé de renseigner les métadonnées au fur et à mesure de l'avan
 
 -   puis à l'étape de l'archivage pérenne (des métadonnées spécifiques seront à renseigner).
 
-------------------------------------------------------------------------
+## Il existe deux types de métadonnées {.tabset}
 
-Il existe deux types de métadonnées : les métadonnées embarquées et enrichies.
+### Métadonnées embarquées
 
-+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+
-| Métadonnées embarquées                                                                                | M&tadonnées enrichies                                                                       |
-+=======================================================================================================+=============================================================================================+
-| Elles sont produites **automatiquement** par les appareils (de prise de vue ou de son, de mesure...). | Elles sont **ajoutées** par l'auteur.                                                       |
-|                                                                                                       |                                                                                             |
-| Exemples : données GPS, type d'appareil, date, calibrage technique, etc.                              | Exemples : mots-clés, sujet, auteur, laboratoire ou organisme, nom du projet, licence, etc. |
-+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+
+Elles sont produites **automatiquement** par les appareils (de prise de vue ou de son, de mesure...).
+
+Exemples : données GPS, type d'appareil, date, calibrage technique, etc.
+
+### Métadonnées enrichies
+
+Elles sont **ajoutées** par l'auteur.
+
+Exemples : mots-clés, sujet, auteur, laboratoire ou organisme, nom du projet, licence, etc.
+
+##  {.unnumbered}
 
 ------------------------------------------------------------------------
 
