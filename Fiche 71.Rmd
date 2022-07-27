@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### Exemple PGD projet **"EQUIPEX MetaboHUB-METEX+" :** 
+### Exemple PGD projet EQUIPEX MetaboHUB-METEX+ **:** 
 
 ![](images/exemple_PGD_resp_projet.png "Responsabilite projet")
 
