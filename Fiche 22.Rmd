@@ -9,12 +9,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ------------------------------------------------------------------------
 
-## **Exemple de réponse pour le projet** [**"Bridge Research through Interoperable Data Governance and Environments"**](https://dmp.opidor.fr/plans/5954/export.pdf) **sur le modèle PGD ANR français section "Stockage et sauvegarde pendant le processus de recherche" pour deux produits de recherche :**
+## **Exemple de réponse pour le projet** **"Bridge Research through Interoperable Data Governance and Environments"** **:**
 
 ![](images/exemple%20pgd%20stockage%20-01.png)
 
-*DMP Public projet "Bridge Research through Interoperable Data Governance and Environments" - section "Stockage et sauvegarde pendant le processus de recherche"*
+*DMP Public projet "[Bridge Research through Interoperable Data Governance and Environments](https://dmp.opidor.fr/plans/5954/export.pdf?export%5Bquestion_headings%5D=true)" - section "Stockage et sauvegarde pendant le processus de recherche" modèle ANR*
 
 ------------------------------------------------------------------------
 
-**Merci aux contributeurs des PGD publics sur DMP OPIDoR d'avoir partagé leur PGD librement.**
+Merci aux contributeurs des PGD publics sur DMP OPIDoR d'avoir partagé leur PGD librement.
