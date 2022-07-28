@@ -1,7 +1,11 @@
----
-title: "Fiche - Estimer le volume de données à stocker"
-output: html_document
----
+-   <div>
+
+    ---
+    title: "Fiche - Estimer le volume de données à stocker"
+    output: html_document
+    ---
+
+    </div>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -13,17 +17,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](images/exemple_pgd_volume_1.png)
 
-*DMP Public projet ["PGD HyperOtlet"](https://dmp.opidor.fr/plans/4205/export.pdf?export%5Bquestion_headings%5D=true) - section 1a et b modèle ANR*
+*DMP Public projet ["PGD HyperOtlet"](https://dmp.opidor.fr/plans/4205/export.pdf?export%5Bquestion_headings%5D=true) - section 1 modèle ANR*
 
 ------------------------------------------------------------------------
 
-### Exemple PGD projet "De la rhéologie à la rupture des plaques tectoniques
-
-: de l'affaiblissement à la localisation de la déformation dans le manteau lithosphérique" :
+### Exemple PGD projet "De la rhéologie à la rupture des plaques tectoniques de l'affaiblissement à la localisation de la déformation dans le manteau lithosphérique" : 
 
 ![](images/exemple_pgd_volume_2-01.png)
 
-*DMP Public projet ["De la rhéologie à la rupture des plaques tectoniques: de l'affaiblissement à la localisation de la déformation dans lemanteau lithosphérique"](https://dmp.opidor.fr/plans/13156/export.pdf?export%5Bquestion_headings%5D=true) - section 1a et b modèle ANR*
+*DMP Public projet ["De la rhéologie à la rupture des plaques tectoniques: de l'affaiblissement à la localisation de la déformation dans lemanteau lithosphérique"](https://dmp.opidor.fr/plans/13156/export.pdf?export%5Bquestion_headings%5D=true) - section 1 modèle ANR*
 
 ------------------------------------------------------------------------
 
