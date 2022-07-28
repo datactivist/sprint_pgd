@@ -43,13 +43,13 @@ Voici quelques exemples :
 
 #### Zenodo (pluridisciplinaire)
 
-Entrepôt généraliste recommandé par la Commission européenne [(voir le site)](https://zenodo.org)
+Entrepôt généraliste recommandé par la Commission européenne [(voir le site)](https://zenodo.org).
 
 ------------------------------------------------------------------------
 
 #### Dryad (pluridisciplinaire)
 
-Entrepôt en Sciences de la Vie, Agronomie, Géosciences, Anthropologie et Sciences comportementales [(voir le site)](https://datadryad.org/stash)
+Entrepôt en Sciences de la Vie, Agronomie, Géosciences, Anthropologie et Sciences comportementales [(voir le site)](https://datadryad.org/stash).
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ L'entrepôt de données DataSuds propose aux scientifiques de l'IRD et à leurs 
 
 #### Recherche data gouv (national)
 
-Une plateforme nationale fédérée des données de la recherche([voir le site](https://recherche.data.gouv.fr/fr))
+Une plateforme nationale fédérée des données de la recherche [(voir le site)](https://recherche.data.gouv.fr/fr).
 
 il assure la souveraineté française sur les données, est conforme aux droits français et communautaire, garantit la pérennité et l'indexation des données stockées, suivant les principes FAIR. C'est l'entrepôt de choix quand aucun entrepôt disciplinaire n'existe.
 
