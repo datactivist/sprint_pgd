@@ -10,8 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ------------------------------------------------------------------------
 
-## Fiches Pratiques RGPD recherche
-
 Afin de vous aider à définir les règles de collecte, traitement et stockage de vos données pendant votre projet, voici deux guides RGPD qui pourront vous être utiles :
 
 ------------------------------------------------------------------------
