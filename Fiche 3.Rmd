@@ -13,10 +13,16 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](images/exemple%20pgd%20PDR.png)
 
-*[DMP Public projet "Bridge Research through Interoperable Data Governance and Environments" - section "produits de recherche"](https://dmp.opidor.fr/plans/5954/export.pdf)* sur le modèle PGD ANR
+*DMP public du projet ["Bridge Research through Interoperable Data Governance and Environments" - section "produits de recherche"](https://dmp.opidor.fr/plans/5954/export.pdf)* sur le modèle PGD ANR
+
+------------------------------------------------------------------------
+
+### Exemple de produits de recherche identifiés pour le projet "E Ndp" :
+
+![](images/exemple_projet_endp.png)
+
+*DMP public du projet [E-NdP](https://dmp.opidor.fr/plans/10339/export.pdf)*sur le modèle PGD ANR
 
 ------------------------------------------------------------------------
 
 **Merci aux contributeurs des PGD publics sur DMP OPIDoR d'avoir partagé leur PGD librement.**
-
-# 
