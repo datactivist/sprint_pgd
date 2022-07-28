@@ -15,9 +15,11 @@ La notion de dictionnaire des variables est expliquée (p. 11) dans le [**Guide 
 
 ------------------------------------------------------------------------
 
-### Exemple de réponse pour le projet ["Bridge Research through Interoperable Data Governance and Environments"](https://dmp.opidor.fr/plans/10339/export.pdf)** **sur le modèle PGD ANR section "Documentation et métadonnées" :
+### Exemple de réponse pour le projet Bridge Research through Interoperable Data Governance and Environments :
 
 ![](images/documentation%20et%20me%CC%81tadonne%CC%81es.png)
+
+*DMP Public projet [Bridge Research through Interoperable Data Governance and Environments](https://dmp.opidor.fr/plans/10339/export.pdf)- section 2a modèle ANR*
 
 ------------------------------------------------------------------------
 
