@@ -11,15 +11,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Il est à noter que la licence ouverte d'Etalab est compatible avec la licence Creative Commons CC-BY et que la licence ODBL est similaire à la licence Creative Commons CC-BY-SA. Le choix de ces deux licences CC pourra donc s'apprécier en fonction du contexte international et des politiques des entrepôts scientifiques. En revanche les Creative commons CC-BY-ND (sans modification) et CC-BY-NC (sans usage commercial) sont à éviter dans le contexte de l'open data.
 
-## Matrice de compatibilité des licences CC-BY :
+## Matrice de compatibilité des licences CC-BY
 
 ![](images/matrice%20compatibilite%CC%81%20licence.png)
 
 ------------------------------------------------------------------------
 
-**Vous trouverez une matrice de compatibilité des licences GNU sous ce lien :**
+## Matrice de compatibilité des licences GNU**
 
-[Foire aux questions sur les licences GNU - Projet GNU - Free SoftwareFoundation](https://www.gnu.org/licenses/gpl-faq.fr.html#AllCompatibility)
+La matrice est proposée dans la [Foire aux questions sur les licences GNU](https://www.gnu.org/licenses/gpl-faq.fr.html#AllCompatibility) du Projet GNU (Free Software Foundation).
 
 ------------------------------------------------------------------------
 
