@@ -23,15 +23,15 @@ Si le choix de l'entrepôt vous revient, voici une liste de critères pour vous 
 
 -   vérifier la qualité des métadonnées requise
 
--   vérifier si l'entrepôt envisagé est certifié
+-   vérifier si l'entrepôt est certifié
 
--   vérifier si l'entrepôt envisagé est labellisé "entrepôt de confiance"
+-   vérifier si l'entrepôt est labellisé "entrepôt de confiance"
 
--   vérifier la pérennité proposée par l'entrepôt
+-   vérifier la pérennité de l'entrepôt
 
--   voir si le dépôt de données dans l'entrepôt envisagé génère un identifiant pérenne
+-   voir si l'entrepôt attribue un identifiant pérenne aux données
 
--   vérifier si l'entrepôt envisagé permet la gestion des versions si tel est votre besoin.
+-   vérifier si l'entrepôt permet la gestion des versions si tel est votre besoin.
 
 ------------------------------------------------------------------------
 
