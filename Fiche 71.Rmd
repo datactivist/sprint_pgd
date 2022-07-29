@@ -15,4 +15,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ------------------------------------------------------------------------
 
+### Exemple PGD projet E-NdP **:**
+
+![](images/exemple_PGD_responsabilite.png)
+
+<small>*DMP Public projet E-NdP- section 6a modèle ANR*</small>
+
+------------------------------------------------------------------------
+
 Merci aux contributeurs des PGD publics sur DMP OPIDoR d'avoir partagé leur PGD librement.
