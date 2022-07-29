@@ -89,17 +89,15 @@ En outre, la licence Creative Commons CC0 est équivalente à placer les donnée
 
 ------------------------------------------------------------------------
 
-**Licences pour logiciels** : les plus connues sont la [GNU GPL](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU) (GNU General Public License ou licence publique générale GNU) ou la [CeCILL-B](https://fr.wikipedia.org/wiki/Licence_CeCILL) créée conjointement par le CEA, le CNRS et l'INRIA.
+**Licences pour logiciels** : de façon schématique, il existe **trois degrés de copyleft** (*terme né d'un jeu de mots sur le terme copyright, et parfois traduit par «gauche d'auteur», désigne l'obligation de diffuser les œuvres modifiées sous la même licence que l'œuvre initiale*) pour les licences logiciels :
 
-De façon schématique, il existe **trois degrés de copyleft** pour les licences logiciels :
-
-**Copyleft fort (licences GNU GPL, CeCILL-A3 2.1, etc.)**
+**Copyleft fort (licences GNU GPL)**
 Ces licences, parfois dites « **diffusives** », imposent leurs termes à toute œuvre dérivée issue du logiciel. En particulier, **le respect des termes des licences à copyleft fort impose que les licences des autres modules soient libres, afin de garantir les libertés des usagers sur l'ensemble du logiciel**. L'obligation d'utiliser exactement la même licence ne s'applique qu'aux seules modifications internes au logiciel couvert.
 
-**Copyleft faible (licences GNU LGPL, CDDL, Mozilla MPL, CeCILL-C, etc.)**
+**Copyleft faible (licences GNU LGPL)**
 Ces licences permettent de **combiner le code qu'elles couvrent avec des modules tiers placés sous tous types de licences, y compris privatives**, à condition qu'il n'existe pas d'incompatibilité entre les licences.
 
-**Non-copyleft (licences MIT, Apache, BSD, CeCILL-B, etc.)**
+**Non-copyleft (licences MIT, BSD, CeCILL-B, etc.)**
 Ces licences, dites « **permissives** », n'ont **pas d'effet copyleft**. Elles permettent de modifier le code ou de l'intégrer dans un logiciel distribué sous tout autre type de licence, sans que l'usager puisse obtenir le code source de ce logiciel et exercer les droits initialement attachés à la licence libre. **Ce type de licence est à l'origine du fait que l'immense majorité des logiciels actuels -- libres ou non -- repose en partie sur du code initialement libre.**
 
 *"on constate qu'environ 60% des logiciels libres sont diffusés sous l'une des versions de la licence GNU GPL et 20% sous l'une des versions de la licence GNU LGPL."* [*Livret Bleu Juridique*](https://cnll.fr/media/LivretBleu_Juridique-2eEdition_GT-LogicielLibre_Systematic_Nov2016_web.pdf)
