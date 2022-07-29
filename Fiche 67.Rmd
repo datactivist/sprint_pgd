@@ -102,7 +102,7 @@ Ces licences, dites « **permissives** », n'ont **pas d'effet copyleft**. Elles
 
 "On constate qu'environ 60% des logiciels libres sont diffusés sous l'une des versions de la licence GNU GPL et 20% sous l'une des versions de la licence GNU LGPL."
 
-<small> *Source : MOREAU, Patrick, MOULIN, Camille, PAPPALARDO, Jeremy et PELLEGRINI, François, 2016. Livret Bleu du Logiciel Libre : fondamentaux juridiques. 2016. Disponible à l'adresse : <https://cnll.fr/media/LivretBleu_Juridique-2eEdition_GT-LogicielLibre_Systematic_Nov2016_web.pdf>*</small>
+<small> *Source : MOREAU, Patrick, MOULIN, Camille, PAPPALARDO, Jeremy et PELLEGRINI, François. Livret Bleu du Logiciel Libre : fondamentaux juridiques. 2016. Disponible à l'adresse : <https://cnll.fr/media/LivretBleu_Juridique-2eEdition_GT-LogicielLibre_Systematic_Nov2016_web.pdf>*</small>
 
 ------------------------------------------------------------------------
 
