@@ -7,11 +7,19 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### Exemple PGD  projet "ARDECO" : 
+### Exemple PGD projet ARDECO :
 
 ![](images/exemple_PGD_ARDECO.png)
 
-*DMP Public projet [ARDECO](https://dmp.opidor.fr/plans/8349/export.pdf?export%5Bquestion_headings%5D=true) - section 1a modèle ANR*
+<small>*DMP Public projet [ARDECO](https://dmp.opidor.fr/plans/8349/export.pdf?export%5Bquestion_headings%5D=true) - section 1a modèle ANR*</small>
+
+------------------------------------------------------------------------
+
+### Exemple PGD projet E-NdP :
+
+![](images/exemple_2_PGD_1a.png)
+
+<small>*DMP Public projet [E-NdP](https://dmp.opidor.fr/plans/10339/export.pdf?export%5Bquestion_headings%5D=true) - section 1a modèle ANR*</small>
 
 ------------------------------------------------------------------------
 
