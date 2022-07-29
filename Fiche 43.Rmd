@@ -37,9 +37,13 @@ Si le choix de l'entrepôt vous revient, voici une liste de critères pour vous 
 
 # Galerie d'exemples d'entrepôts disciplinaires et généralistes
 
+------------------------------------------------------------------------
+
 Il est conseillé de privilégier le dépôt de vos données dans un **entrepôt disciplinaire**. S'il n'en existe pas dans votre domaine, vous pouvez opter pour un **entrepôt généraliste**.
 
 Voici quelques exemples :
+
+------------------------------------------------------------------------
 
 #### Zenodo (pluridisciplinaire)
 
@@ -65,7 +69,7 @@ Plateforme nationale fédérée des données de la recherche [(voir le site)](ht
 
 C'est l'entrepôt de choix quand aucun entrepôt disciplinaire n'existe. Il assure la souveraineté française sur les données, est conforme aux droits français et communautaire, garantit la pérennité et l'indexation des données stockées, suivant les principes FAIR.
 
-Source : *Partager les données liées aux publications scientifiques -- Guide pour les chercheurs*. (2022). [<https://www.ouvrirlascience.fr/partager-les-donnees-liees-aux-publications-scientifiques-guide-pour-les-chercheurs>](https://www.ouvrirlascience.fr/partager-les-donnees-liees-aux-publications-scientifiques-guide-pour-les-chercheurs)
+Source : *Partager les données liées aux publications scientifiques -- Guide pour les chercheurs*. (2022). [\<https://www.ouvrirlascience.fr/partager-les-donnees-liees-aux-publications-scientifiques-guide-pour-les-chercheurs>](https://www.ouvrirlascience.fr/partager-les-donnees-liees-aux-publications-scientifiques-guide-pour-les-chercheurs)
 
 ------------------------------------------------------------------------
 
