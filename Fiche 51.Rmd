@@ -19,4 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ------------------------------------------------------------------------
 
+### Exemple PGD projet IMPRINT **:**
+
+![](images/exemple_PGD_stockage_5.png)
+
+*DMP Public projet [Imprint](https://dmp.opidor.fr/plans/5082/export.pdf?export%5Bquestion_headings%5D=true)- section 3a et b modèle ANR*
+
+------------------------------------------------------------------------
+
 Merci aux contributeurs des PGD publics sur DMP OPIDoR d'avoir partagé leur PGD librement.
