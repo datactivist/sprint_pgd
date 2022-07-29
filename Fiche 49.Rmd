@@ -1,11 +1,7 @@
--   <div>
-
-    ---
-    title: "Fiche - Estimer le volume de données à stocker"
-    output: html_document
-    ---
-
-    </div>
+---
+title: "Fiche - Estimer le volume de données à stocker"
+output: html_document
+---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
