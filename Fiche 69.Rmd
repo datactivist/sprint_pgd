@@ -17,7 +17,7 @@ Il est à noter que la licence ouverte d'Etalab est compatible avec la licence C
 
 ------------------------------------------------------------------------
 
-## Matrice de compatibilité des licences GNU**
+## Matrice de compatibilité des licences GNU
 
 La matrice est proposée dans la [Foire aux questions sur les licences GNU](https://www.gnu.org/licenses/gpl-faq.fr.html#AllCompatibility) du Projet GNU (Free Software Foundation).
 
