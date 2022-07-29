@@ -59,29 +59,9 @@ La « Licence Ouverte / Open License » présente les caractéristiques suivante
 
 ------------------------------------------------------------------------
 
-**Licences CC - Creative Commons** - Il existe 6 licences Creative Commons combinant quatre éléments :
+**Licences CC - Creative Commons** - Il existe 6 licences Creative Commons combinant quatre éléments :<br> - BY = attribution <br> - NC = pas d'utilisation commerciale<br> - SA = partage dans les mêmes conditions<br> - ND = pas de modification<br>
 
-\- BY = attribution
-
-\- NC = pas d'utilisation commerciale
-
-\- SA = partage dans les mêmes conditions
-
-\- ND = pas de modification
-
-Voici les 6 licences Creative Commons et leurs icônes correspondantes (illustration ci-dessous) :
-
-\- CC BY
-
-\- CC BY-ND
-
-\- CC BY-NC-ND
-
-\- CC BY-NC
-
-\- CC BY-NC-SA
-
-\- CC BY-SA
+Voici les 6 licences Creative Commons et leurs icônes correspondantes : - CC BY <br> - CC BY-ND<br> - CC BY-NC-ND<br> - CC BY-NC<br> - CC BY-NC-SA<br> - CC BY-SA<br>
 
 La plus permissive est la CC BY et la plus restrictive est la CC BY-NC-ND (déconseillée).
 
@@ -91,18 +71,15 @@ En outre, la licence Creative Commons CC0 est équivalente à placer les donnée
 
 **Licences pour logiciels** : de façon schématique, il existe **trois degrés de copyleft** (*obligation de diffuser les œuvres modifiées sous la même licence que l'œuvre initiale*) pour les licences logiciels :
 
-**Copyleft fort (licences GNU GPL)**
-Ces licences, parfois dites « **diffusives** », imposent leurs termes à toute œuvre dérivée issue du logiciel. En particulier, **le respect des termes des licences à copyleft fort impose que les licences des autres modules soient libres, afin de garantir les libertés des usagers sur l'ensemble du logiciel**. L'obligation d'utiliser exactement la même licence ne s'applique qu'aux seules modifications internes au logiciel couvert.
+-   **Copyleft fort (licence GNU GPL)** Ces licences, parfois dites « **diffusives** », imposent leurs termes à toute œuvre dérivée issue du logiciel. En particulier, **le respect des termes des licences à copyleft fort impose que les licences des autres modules soient libres, afin de garantir les libertés des usagers sur l'ensemble du logiciel**. L'obligation d'utiliser exactement la même licence ne s'applique qu'aux seules modifications internes au logiciel couvert.
 
-**Copyleft faible (licences GNU LGPL)**
-Ces licences permettent de **combiner le code qu'elles couvrent avec des modules tiers placés sous tous types de licences, y compris privatives**, à condition qu'il n'existe pas d'incompatibilité entre les licences.
+-   **Copyleft faible (licence GNU LGPL)** Ces licences permettent de **combiner le code qu'elles couvrent avec des modules tiers placés sous tous types de licences, y compris privatives**, à condition qu'il n'existe pas d'incompatibilité entre les licences.
 
-**Non-copyleft (licences MIT, BSD, CeCILL-B, etc.)**
-Ces licences, dites « **permissives** », n'ont **pas d'effet copyleft**. Elles permettent de modifier le code ou de l'intégrer dans un logiciel distribué sous tout autre type de licence, sans que l'usager puisse obtenir le code source de ce logiciel et exercer les droits initialement attachés à la licence libre. **Ce type de licence est à l'origine du fait que l'immense majorité des logiciels actuels -- libres ou non -- repose en partie sur du code initialement libre.**
+-   **Non-copyleft (licences MIT, BSD, CeCILL-B, etc.)** Ces licences, dites « **permissives** », n'ont **pas d'effet copyleft**. Elles permettent de modifier le code ou de l'intégrer dans un logiciel distribué sous tout autre type de licence, sans que l'usager puisse obtenir le code source de ce logiciel et exercer les droits initialement attachés à la licence libre. **Ce type de licence est à l'origine du fait que l'immense majorité des logiciels actuels -- libres ou non -- repose en partie sur du code initialement libre.**
 
-"On constate qu'environ 60% des logiciels libres sont diffusés sous l'une des versions de la licence GNU GPL et 20% sous l'une des versions de la licence GNU LGPL."
+On constate qu'environ 60% des logiciels libres sont diffusés sous l'une des versions de la licence GNU GPL et 20% sous l'une des versions de la licence GNU LGPL.
 
-<small> *Source : MOREAU, Patrick, MOULIN, Camille, PAPPALARDO, Jeremy et PELLEGRINI, François. Livret Bleu du Logiciel Libre : fondamentaux juridiques. 2016. Disponible à l'adresse : <https://cnll.fr/media/LivretBleu_Juridique-2eEdition_GT-LogicielLibre_Systematic_Nov2016_web.pdf>*</small>
+<small> *Source : MOREAU, Patrick, MOULIN, Camille, PAPPALARDO, Jeremy et PELLEGRINI, François. [Livret Bleu du Logiciel Libre : fondamentaux juridiques](https://cnll.fr/media/LivretBleu_Juridique-2eEdition_GT-LogicielLibre_Systematic_Nov2016_web.pdf). 2016.* </small>
 
 ------------------------------------------------------------------------
 
