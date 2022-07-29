@@ -7,9 +7,13 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+------------------------------------------------------------------------
+
 ### Exemple PGD projet EQUIPEX MetaboHUB-METEX+ **:**
 
-![](images/exemple_pgd_stockage_secu.png)
+![](images/exemple_PGD_stockage_1.png)
+
+![](images/exemple_PGD_Stockage_2.png)
 
 *DMP Public projet [EQUIPEX MetaboHUB-METEX+](https://dmp.opidor.fr/plans/13271/export.pdf?export%5Bquestion_headings%5D=true) - section 3a et b modèle ANR*
 
